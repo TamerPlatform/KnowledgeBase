@@ -14,7 +14,7 @@ before_script:
 - COMMIT_MESSAGE="Test Commit `date "+%Y-%m-%d %H:%M:%S"` from `git log -n 1 --format='commit
   %h - %s'`"
 script:
-- mkdocs build
+- mkdocs build --clean
 after_success: |-
   echo $TRAVIS_BRANCH; echo $TRAVIS_PULL_REQUEST; if [[ $TRAVIS_BRANCH == 'master' && $TRAVIS_PULL_REQUEST == 'false' ]]; then
     echo "Will Deploy From Here"

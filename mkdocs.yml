@@ -1,0 +1,14 @@
+site_name: AndroidTamer-KB
+docs_dir: Documents
+site_description: KnowledgeBase for Android Tamer
+site_author: AndroidTamer Team
+site_dir: site
+#theme: readthedocs
+markdown_extensions:
+  - markdown_newtab
+  - oembed
+  - markdown_checklist.extension
+include_next_prev: false
+copyright: (c) Android Tamer Team
+site_favicon: favicon.ico
+theme_dir: custom_theme
