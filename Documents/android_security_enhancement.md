@@ -41,8 +41,7 @@ hide_toc: true
 | 4.2   | SecureRandom implementation                         | SecureRandom implementation based on OpenSSL, Bounty castle implementation removed.                             | [details here][23]                                                     |
 | 4.2   | JavascriptInterface annotation                      | JavascriptInterface needs to be annotated for webview                                                           | exploit possible for <4.2 devices. and applications using API < 17  Reference :   [Metasploit Module][24]  [Test Page : identifies if browser or webview is vulnerable.][25]  [Additional Details][26] |
 | 4.2 | Cryptography | SSLSocket support for TLSv1.1 and TLSv1.2 using OpenSSL 1.0.1 |  |
-| 4.1 | PIE (Position Independent Executable) support | Support for binaries compiled with GCC's -pie -fPIE flags   
-(executables to be position independent) |  |
+| 4.1 | PIE (Position Independent Executable) support | Support for binaries compiled with GCC's -pie -fPIE flags  (executables to be position independent) |  |
 | 4.1 | Read-only relocations / immediate binding | (-Wl,-z,relro -Wl,-z,now) |  |
 | 4.1 | kernel address leakage prevention | dmesg_restrict and kptr_restrict enabled | kptr_restrict mitigates [Levitator Exploit][27] |
 | 4.1 | ELF Hardening | RELRO / BIND_NOW flag default. This hardens those binaries against attacks that may attempt to overwrite the GOT and other sensitive ELF structures by making them read-only at startup. | [breaks Gingerbreak Exploit ][28]  [more details on RELRO here ][29] |
