@@ -2,6 +2,8 @@ hide_toc: true
 
 # Android Security Enhancement List
 
+This page catalogues how android security has evolved over various versions of android. We strive to catalogue which version introduced a specific security feature or tweaked it as well as which version fixed a specific flaw.
+
 
 |Android Version | Security Enhancement | Details | Reference / Bypass (if applicable) |
 |---|---|---|---|
@@ -57,6 +59,21 @@ hide_toc: true
 | 1.5 | Integer overflow protection | safe_iop |  |
 | 1.5 | Integer overflow memory allocation | OpenBSD calloc |  |
 | 1.5 | chunk consolidation attack | Extensions to OpenBSD dlmalloc() to prevent double free() |  |
+
+
+
+This page is an ongoing effort and we will try to maintain it in up to date condition to the best of our abilities.
+
+<strong>Credits :</strong>
+
+This list is aggregated by <a href="http://anantshri.info" target="_blank">Anant Shrivastava</a> and <a href="http://prashantmahajan.wordpress.com/" target="_blank">Prashant Mahajan</a>. References where ever applicable are properly placed in the reference section.
+
+Thanks to following folks for helping us with additional inputs.
+<ul>
+    <li><a href="http://ankurbhargava.com" rel="nofollow" target="_blank">Ankur Bhargava</a></li>
+    <li><a href="http://manifestsecurity.com" rel="nofollow" target="_blank">Aditya Agrawal</a></li>
+</ul>
+Feel free to suggest corrections / additions in the list via either comments or a email to <a href="mailto:androidsecurityenhancement at androidtamer dot com">AndroidSecurityEnhancement at androidTamer dot com</a>
 
 [1]: https://plus.google.com/u/0/+GoogleChromeDevelopers/posts/Pb6BRDvRYVt
 [2]: https://developer.chrome.com/multidevice/webview/overview
