@@ -6,9 +6,11 @@ branches:
   - gh-pages
 install:
 - pip install mkdocs
-- pip install pyembed-markdown
 - pip install markdown-newtab
 - pip install markdown-checklist
+- pip install python-markdown-oembed
+- pip install linkchecker
+- pip install requests
 before_script:
 - git config remote.origin.url git@github.com:${TRAVIS_REPO_SLUG}
 - COMMIT_MESSAGE="Test Commit `date "+%Y-%m-%d %H:%M:%S"` from `git log -n 1 --format='commit
