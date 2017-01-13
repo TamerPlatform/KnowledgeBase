@@ -11,4 +11,4 @@ markdown_extensions:
 include_next_prev: false
 copyright: (c) Android Tamer Team
 site_favicon: favicon.ico
-theme_dir: custom_theme
+theme_dir: mkdocs-reloaded

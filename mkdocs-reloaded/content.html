@@ -5,5 +5,12 @@
 {% endfor %}
 </div>
 {% endif %}
+{% if meta.mindmap %}
+<div class="mindmap">
+{% endif %}
 
 {{ content }}
+
+{% if meta.mindmap %}
+</div>
+{% endif %}
