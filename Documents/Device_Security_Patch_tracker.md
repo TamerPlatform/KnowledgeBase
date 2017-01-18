@@ -6,8 +6,9 @@ This list is Prepared to Serve as a Quick reference to identify which Device is 
 
 The latest version of Android in production is **7.1.1** However as visible below only nexus/pixel (Google supported) devices are running on the latest version.
 
-|Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported |
+|Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
+| Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017 [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php)|
 | OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Moto G4 Plus| retin | - | November 1, 2016 | 7.0 | January 14, 2017|
 |Samsung Galaxy S7 Edge | - | SM-G935FD | December 01, 2016| 6.0.1 |  January 14, 2017 |
