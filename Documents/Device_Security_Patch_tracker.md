@@ -15,7 +15,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
 |Redmi 3S Prime | - |  -  | September 05, 2016  | 6.0.1| January 14, 2017 |
 | OnePlus One | bacon | A0001 | September 01, 2016 | 6.0.1(MHC19Q) | January 14, 2017 |
-|Moto g4 | retus | - | July 1, 2016 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
+|Moto g4 | retus | - | July 1, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
 | Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
 | Oppo F1s | - | A1601 | Not Applicable |  5.1 | January 14, 2017 |
 |Motorola G2| - | - | - | 5.0.2| January 14,2017 | 
