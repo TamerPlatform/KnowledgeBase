@@ -22,6 +22,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Grand Neo Plus | - | GT-I9060I | September 01, 2016 | 4.4.4 | January 30, 2017 |
 | Moto G2 | - | - | August 01, 2016 | 6.0 | January 30, 2017 |
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
+| Gionee Pioneer | - | GiONEE P5W | April 01, 2016 | 5.1 | January 30, 2017 |
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
 | Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
 | Oppo F1s | - | A1601 | Not Applicable |  5.1 | January 14, 2017 |
@@ -29,6 +30,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Lenovo A6000 | - | - | - | 5.0.2 | January 30, 2017 |
 | Micromax A46 | - | - | - | 4.2.2 | January 14, 2017 |
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
+| Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
 
 
 ### Google Devices Status
