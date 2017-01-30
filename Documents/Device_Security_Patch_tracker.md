@@ -32,6 +32,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
 | Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
+| LG G4 | - | LG-H811 | November 1, 2016 | 6.0 | January 30, 2017 [Image](mages/LG-G4-Tmobile_30_jan_2017.png)|
 
 
 ### Google Devices Status
