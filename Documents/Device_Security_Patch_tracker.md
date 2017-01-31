@@ -13,6 +13,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
+| LG G4 | - | LG-H811 | November 01, 2016 | 6.0 | January 30, 2017 [Image](images/LG-G4-Tmobile_30_jan_2017.png) |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
@@ -32,7 +33,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
 | Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
-| LG G4 | - | LG-H811 | November 1, 2016 | 6.0 | January 30, 2017 [Image](images/LG-G4-Tmobile_30_jan_2017.png)|
 
 
 ### Google Devices Status
