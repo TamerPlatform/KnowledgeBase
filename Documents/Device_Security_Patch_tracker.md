@@ -8,13 +8,13 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
+| LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
 | OnePlus 3 | - | A3003 | December 01, 2016 | 7.0 | January 31, 2017 |
 | OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
-| LG G4 | - | LG-H811 | November 01, 2016 | 6.0 | January 30, 2017 [Image](images/LG-G4-Tmobile_30_jan_2017.png) |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
@@ -35,7 +35,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
 | Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
-| LG G4 | - | LG-H811 | January 1, 2017 | 6.0 | February 1, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png)|
+
 
 
 
