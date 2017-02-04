@@ -8,7 +8,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
-| BlackBerry PRiv | - | STV100-4 | February 05, 2017 | 6.0.1 | February 03, 2017 [Image](images/bb_priv_5_feb_2017.jpg)[Tweet](https://twitter.com/markusroedel/status/827446803385688064) |
+| BlackBerry PRiv | - | STV100-4 | February 05, 2017 | 6.0.1 | February 03, 2017 [Image](images/bb_priv_5_feb_2017.jpg) [Tweet](https://twitter.com/markusroedel/status/827446803385688064) |
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
@@ -19,6 +19,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
+| Lyf Flame 7 | - | LYF_LS-4006 | October 05, 2016 | 5.1 | February 04, 2017 [Image](images/LYF_LS_04_Feb_2017.png) |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
 | Xiaomi Redmi 2 | - | HM 2LTE-IN | October 01, 2016 | 5.1.1 (LMY47V) | January 30, 2017 |
 | Redmi 3S Prime | - |  -  | September 05, 2016  | 6.0.1| January 14, 2017 |
