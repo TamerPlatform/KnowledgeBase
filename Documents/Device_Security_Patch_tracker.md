@@ -16,6 +16,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
+| Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
@@ -23,6 +24,8 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Redmi 3S Prime | - |  -  | September 05, 2016  | 6.0.1| January 14, 2017 |
 | OnePlus One | bacon | A0001 | September 01, 2016 | 6.0.1 (MHC19Q) | January 14, 2017 |
 | Samsung Grand Neo Plus | - | GT-I9060I | September 01, 2016 | 4.4.4 | January 30, 2017 |
+| Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2016 | 6.0.1 | February 04, 2017 |
+| Samsung Galaxy J3 | j3xnltexx | SM-J320FN | August 01, 2016 | 5.1.1 | February 04, 2017 |
 | Moto G2 | - | - | August 01, 2016 | 6.0 | January 30, 2017 |
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
 | Motorola Moto Maxx | - | XT1225 | May 01, 2016 | 6.0.1 | January 31, 2017 [Image](images/moto_turbo_maxx_31_jan_2017.png) |
