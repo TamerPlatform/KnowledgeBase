@@ -16,6 +16,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
+| Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
