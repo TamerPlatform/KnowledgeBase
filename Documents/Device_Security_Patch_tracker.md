@@ -25,6 +25,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | OnePlus One | bacon | A0001 | September 01, 2016 | 6.0.1 (MHC19Q) | January 14, 2017 |
 | Samsung Grand Neo Plus | - | GT-I9060I | September 01, 2016 | 4.4.4 | January 30, 2017 |
 | Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2016 | 6.0.1 | February 04, 2017 |
+| Samsung Galaxy J3 | j3xnltexx | SM-J320FN | August 01, 2016 | 5.1.1 | February 04, 2017 |
 | Moto G2 | - | - | August 01, 2016 | 6.0 | January 30, 2017 |
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
 | Motorola Moto Maxx | - | XT1225 | May 01, 2016 | 6.0.1 | January 31, 2017 [Image](images/moto_turbo_maxx_31_jan_2017.png) |
