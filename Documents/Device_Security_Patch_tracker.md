@@ -19,7 +19,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
-| Xiomi redmi note 3| - | Redmi note 3 | November 01,2016 | 6.0.1(MMB29M) | February 5, 2017 |
+| Xiomi Redmi Note 3| - | Redmi Note 3 | November 01,2016 | 6.0.1 (MMB29M) | February 05, 2017 |
 | Lyf Flame 7 | - | LYF_LS-4006 | October 05, 2016 | 5.1 | February 04, 2017 [Image](images/LYF_LS_04_Feb_2017.png) |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
 | Xiaomi Redmi 2 | - | HM 2LTE-IN | October 01, 2016 | 5.1.1 (LMY47V) | January 30, 2017 |
