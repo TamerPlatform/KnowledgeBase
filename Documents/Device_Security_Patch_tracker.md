@@ -40,6 +40,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Lenovo A6000 | - | - | - | 5.0.2 | February 06, 2017 [Image](images/Lenovo_A6000_06_Feb_2017.png) |
 | Micromax A46 | - | - | - | 4.2.2 | January 14, 2017 |
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
+| Micromax Canvas Pulse 4G | - | E451 | - | 5.1 | February 07, 2017 |
 | Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
 | Samsung Galaxy S Advance | - | GT-I9070 | - | 4.1.2 | February 05, 2017 |
