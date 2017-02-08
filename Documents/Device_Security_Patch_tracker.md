@@ -17,6 +17,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
 | Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
+| Sony Xperia C3 | - | - | - | 5.1.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
 | Xiomi Redmi Note 3| - | Redmi Note 3 | November 01,2016 | 6.0.1 (MMB29M) | February 05, 2017 |
@@ -42,9 +43,11 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Micromax A46 | - | - | - | 4.2.2 | January 14, 2017 |
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
 | Micromax Canvas Pulse 4G | - | E451 | - | 5.1 | February 07, 2017 |
+| Micromax Canvas 6 | - | E485 | 2016-09-01 | 5.1 | February 04, 2017 |
 | Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
 | Samsung Galaxy S Advance | - | GT-I9070 | - | 4.1.2 | February 05, 2017 |
+| HTC Desire 816G | - | - | - | 4.4.2 | February 04, 2017 |
 
 
 
