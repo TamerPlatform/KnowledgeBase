@@ -38,6 +38,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Oppo F1s | - | A1601 | Not Applicable |  5.1 | January 14, 2017 |
 | Lenovo Vibe K5 Plus | - | A6020a46 | - | 5.1.1 | January 30, 2017 |
 | Lenovo A6000 | - | - | - | 5.0.2 | February 06, 2017 [Image](images/Lenovo_A6000_06_Feb_2017.png) |
+| Lenovo Vibe K4 Note | - | A7010a48 | December 05, 2016 | 6.0 | February 01, 2017 [Image] (images/Lenovo_Vibe_K4_Note_01_Feb_2017.jpg) |
 | Micromax A46 | - | - | - | 4.2.2 | January 14, 2017 |
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
 | Micromax Canvas Pulse 4G | - | E451 | - | 5.1 | February 07, 2017 |
