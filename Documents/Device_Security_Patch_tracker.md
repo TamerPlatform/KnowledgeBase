@@ -38,6 +38,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
 | Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
 | Oppo F1s | - | A1601 | Not Applicable |  5.1 | January 14, 2017 |
+| HTC Desire 816G | - | - | - | 4.4.2 | February 04, 2017 |
 | Lenovo Vibe K5 Plus | - | A6020a46 | - | 5.1.1 | January 30, 2017 |
 | Lenovo A6000 | - | - | - | 5.0.2 | February 06, 2017 [Image](images/Lenovo_A6000_06_Feb_2017.png) |
 | Micromax A46 | - | - | - | 4.2.2 | January 14, 2017 |
@@ -47,7 +48,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
 | Samsung Galaxy S Advance | - | GT-I9070 | - | 4.1.2 | February 05, 2017 |
 | Sony Xperia C3 | - | - | - | 5.1.1 | February 04, 2017 |
-| HTC Desire 816G | - | - | - | 4.4.2 | February 04, 2017 |
 
 
 
