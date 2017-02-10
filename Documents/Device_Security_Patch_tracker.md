@@ -28,12 +28,18 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Micromax Canvas 6 | - | E485 | September 01, 2016 | 5.1 | February 04, 2017 |
 | OnePlus One | bacon | A0001 | September 01, 2016 | 6.0.1 (MHC19Q) | January 14, 2017 |
 | Samsung Grand Neo Plus | - | GT-I9060I | September 01, 2016 | 4.4.4 | January 30, 2017 |
+| Samsung Galaxy S7 | - | SM-G930A | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/ATT-Galaxy-S7-official-firmware-OTA-updates.jpg) |
+| Samsung Galaxy S7 | - | SM-G930U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/Galaxy-S7-G930U-firmware-from-G930UUEU4API3-to-G930UUEU4APL2.jpg) |
+| Samsung Galaxy S7 Edge | - | SM-G935U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/G935UUEU4APL4-US-S7-edge.jpg) |
+| Samsung Galaxy A3 | - | SM-A300FU | August 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/A300FUXXU1CPH3-Galaxy-A3-A300FU-Marshmallow.jpg) |
 | Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2016 | 6.0.1 | February 04, 2017 |
 | Samsung Galaxy J3 | j3xnltexx | SM-J320FN | August 01, 2016 | 5.1.1 | February 04, 2017 |
 | Moto G2 | - | - | August 01, 2016 | 6.0 | January 30, 2017 |
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
 | Samsung Galaxy S4 | ks01ltexx | GT-I9506 | July 01, 2016 | 5.0.1 | February 06, 2017 |
+| Samsung Galaxy S6 Active | - | SM-G890A | June 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/ATT-Galaxy-S6-Active-Marshmallow-Firmware-G890AUCU4CPF1-info.jpg) |
 | Motorola Moto Maxx | - | XT1225 | May 01, 2016 | 6.0.1 | January 31, 2017 [Image](images/moto_turbo_maxx_31_jan_2017.png) |
+| Samsung Galaxy S5 | - | SM-G900T | May 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/T-Mobile-Galaxy-S5-Marshmallow-G900TUVU1GPE1.jpg) |
 | Gionee Pioneer | - | GiONEE P5W | April 01, 2016 | 5.1 | January 30, 2017 |
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
 | Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
@@ -44,7 +50,9 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Micromax A46 | - | - | - | 4.2.2 | January 14, 2017 |
 | Micromax Canvas Nitro 4G | - | E455 | - | 5.0.2 | January 30, 2017 |
 | Micromax Canvas Pulse 4G | - | E451 | - | 5.1 | February 07, 2017 |
+| Samsung Galaxy A5 | - | SM-A510F | - | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/Galaxy-A5-A510F-Marshmallow-A510FXXU3BPK4.jpg) |
 | Samsung Galaxy Grand | - | GT-I9082 | - | 4.2.2 | January 30, 2017 |
+| Samsung Galaxy S4 | - | GT-I9505 | - | 5.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/I9505XXUHPK2-Galaxy-S4-I9505.jpg) |
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
 | Samsung Galaxy S Advance | - | GT-I9070 | - | 4.1.2 | February 05, 2017 |
 | Sony Xperia C3 | - | - | - | 5.1.1 | February 04, 2017 |
