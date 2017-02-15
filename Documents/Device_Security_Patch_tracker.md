@@ -35,7 +35,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 | - | SM-G930U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/Galaxy-S7-G930U-firmware-from-G930UUEU4API3-to-G930UUEU4APL2.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/G935UUEU4APL4-US-S7-edge.jpg) |
 | Samsung Galaxy A3 | - | SM-A300FU | August 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/A300FUXXU1CPH3-Galaxy-A3-A300FU-Marshmallow.jpg) |
-| Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2016 | 6.0.1 | February 04, 2017 |
+| Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2016 | 6.0.1 | February 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Galaxy-A5-A500FU-Marshmallow-Firmware-Update-234x400.jpg) |
 | Samsung Galaxy Note 4 | - | SM-N910A | August 01, 2016 | 6.0.1 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/N910AATT2EPH5-ATT-Note-4.jpg) |
 | Moto G2 | - | - | August 01, 2016 | 6.0 | January 30, 2017 |
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
