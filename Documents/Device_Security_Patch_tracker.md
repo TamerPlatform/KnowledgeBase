@@ -45,7 +45,11 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy Note 4 | - | SM-N910V | May 01, 2016 | 6.0.1 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/Verizon-Note-4-N910VVRU2CPD1.jpg) |
 | Samsung Galaxy S5 | - | SM-G900H | May 01, 2016 | 6.0.1 | February 15, 2017 [Image](androidromupdate.com/wp-content/uploads/2016/05/G900HXXU1CPE6-Galaxy-S5-SM-G900H-Marshmallow.jpg) |
 | Samsung Galaxy S5 | - | SM-G900T | May 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/T-Mobile-Galaxy-S5-Marshmallow-G900TUVU1GPE1.jpg) |
+| Samsung Galaxy S5 | - | SM-G900I | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/Galaxy-S5-G900I-marshmallow-G900IDDU1CPD1.jpg) |
 | Samsung Galaxy S5 | - | SM-G900W8 | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/05/S5-Marsmallow-G900W8VLU1DPD3.jpg) |
+| Samsung Galaxy S5 Sport | - | SM-G860P | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G860PVPU2CPD1-Sprint-S5-sport.jpg) |
+| Samsung Galaxy S6 | - | SM-G920T | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G920TUVU3EPD1-T-Mobile-Galaxy-S6-marshmallow-stock-firmware.jpg) |
+| Samsung Galaxy S6 Edge+ | - | SM-G928T | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G928TUVU2DPD1-T-Mobile-S6-Edge-marshmallow.jpg) |
 | Gionee Pioneer | - | GiONEE P5W | April 01, 2016 | 5.1 | January 30, 2017 |
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
 | Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
