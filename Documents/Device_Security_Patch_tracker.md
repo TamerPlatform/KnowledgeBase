@@ -25,6 +25,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Xiomi Redmi Note 3| - | Redmi Note 3 | November 01,2016 | 6.0.1 (MMB29M) | February 05, 2017 |
 | Lyf Flame 7 | - | LYF_LS-4006 | October 05, 2016 | 5.1 | February 04, 2017 [Image](images/LYF_LS_04_Feb_2017.png) |
 | Motorola G3 | - | - | October 01, 2016 | 6.0.1 | January 14, 2017 |
+| Samsung Galaxy S7 | - | SM-G930V | October 01, 2016 | 7.0 | Fenruary 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/11/G930VRU4ZPK4-Verizon-Galaxy-S7-Nougat.jpg) |
 | Xiaomi Redmi 2 | - | HM 2LTE-IN | October 01, 2016 | 5.1.1 (LMY47V) | January 30, 2017 |
 | Redmi 3S Prime | - |  -  | September 05, 2016  | 6.0.1| January 14, 2017 |
 | Micromax Canvas 6 | - | E485 | September 01, 2016 | 5.1 | February 04, 2017 |
