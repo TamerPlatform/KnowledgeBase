@@ -13,6 +13,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
 | Lenovo Vibe K4 Note | - | A7010a48 | December 05, 2016 | 6.0 | February 01, 2017 [Image](images/Lenovo_Vibe_K4_Note_01_Feb_2017.jpg) |
+| Moto M | - | - | December 05, 2016 | 6.0 | February 17, 2017 [Image](images/Moto_M_17_Feb_2017.png) |
 | OnePlus 3 | - | A3003 | December 01, 2016 | 7.0 | January 31, 2017 |
 | OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
