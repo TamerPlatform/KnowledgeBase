@@ -9,6 +9,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
 | BlackBerry PRiv | - | STV100-4 | February 05, 2017 | 6.0.1 | February 03, 2017 [Image](images/bb_priv_5_feb_2017.jpg) [Tweet](https://twitter.com/markusroedel/status/827446803385688064) |
+| Samsung Galaxy S7 Edge | - | SM-G935T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/G935TUVU4BQB1-T-Mobile-S7-edge-Nougat.jpg) |
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
