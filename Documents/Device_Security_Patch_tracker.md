@@ -56,6 +56,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Gionee Pioneer | - | GiONEE P5W | April 01, 2016 | 5.1 | January 30, 2017 |
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
 | Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
+| HTC One M8 | - | M8 | December 01, 2015 | 6.0 | February 22, 2017 |
 | Oppo F1s | - | A1601 | Not Applicable |  5.1 | January 14, 2017 |
 | HTC Desire 816G | - | - | - | 4.4.2 | February 04, 2017 |
 | Lenovo Vibe K5 Plus | - | A6020a46 | - | 5.1.1 | January 30, 2017 |
