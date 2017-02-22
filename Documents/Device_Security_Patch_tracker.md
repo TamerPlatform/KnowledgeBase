@@ -14,6 +14,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
+| Vivo Y21L | - | - | January 01, 2017 | 5.1.1 | February 22, 2017 |
 | Lenovo Vibe K4 Note | - | A7010a48 | December 05, 2016 | 6.0 | February 01, 2017 [Image](images/Lenovo_Vibe_K4_Note_01_Feb_2017.jpg) |
 | Moto M | - | - | December 05, 2016 | 6.0 | February 17, 2017 [Image](images/Moto_M_17_Feb_2017.png) |
 | OnePlus 3 | - | A3003 | December 01, 2016 | 7.0 | January 31, 2017 |
@@ -21,6 +22,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Samsung Galaxy J3 | j3xnltexx | SM-J320FN | December 01, 2016 | 5.1.1 | February 11, 2017 |
 | Samsung Galaxy S7 | - | SM-G930T | December 01, 2016 | 7.0 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/G930TUVU4ZPL3-T-Mobile-Galaxy-S7-Nougat.jpg) |
+| Xiaomi Mi 4i | - | - | December 01, 2016 | 5.0.2 | February 22, 2017 |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
 | Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
@@ -44,6 +46,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
 | Samsung Galaxy S4 | ks01ltexx | GT-I9506 | July 01, 2016 | 5.0.1 | February 06, 2017 |
 | Samsung Galaxy S6 Active | - | SM-G890A | June 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/ATT-Galaxy-S6-Active-Marshmallow-Firmware-G890AUCU4CPF1-info.jpg) |
+| Xiaomi Redmi 1S | - | - | June 01, 2016 | 4.4.4 | February 22, 2017 |
 | Motorola Moto Maxx | - | XT1225 | May 01, 2016 | 6.0.1 | January 31, 2017 [Image](images/moto_turbo_maxx_31_jan_2017.png) |
 | Samsung Galaxy Note 4 | - | SM-N910V | May 01, 2016 | 6.0.1 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/Verizon-Note-4-N910VVRU2CPD1.jpg) |
 | Samsung Galaxy S5 | - | SM-G900H | May 01, 2016 | 6.0.1 | February 15, 2017 [Image](androidromupdate.com/wp-content/uploads/2016/05/G900HXXU1CPE6-Galaxy-S5-SM-G900H-Marshmallow.jpg) |
