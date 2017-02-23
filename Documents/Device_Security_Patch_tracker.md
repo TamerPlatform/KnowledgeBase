@@ -11,6 +11,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | BlackBerry PRiv | - | STV100-4 | February 05, 2017 | 6.0.1 | February 03, 2017 [Image](images/bb_priv_5_feb_2017.jpg) [Tweet](https://twitter.com/markusroedel/status/827446803385688064) |
 | Samsung Galaxy S7 | - | SM-G930T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/G935TUVU4BQB1-T-Mobile-S7-edge-Nougat.jpg) |
+| Samsung Galaxy S6 | - | SM-G920T | February 01, 2017 | 6.0.1 | February 23, 2017 [Link](http://www.newsandroid.info/2017/02/23/galaxy-s6-february-security-patch-released-in-india/) |
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
@@ -54,7 +55,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S5 | - | SM-G900I | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/Galaxy-S5-G900I-marshmallow-G900IDDU1CPD1.jpg) |
 | Samsung Galaxy S5 | - | SM-G900W8 | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/05/S5-Marsmallow-G900W8VLU1DPD3.jpg) |
 | Samsung Galaxy S5 Sport | - | SM-G860P | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G860PVPU2CPD1-Sprint-S5-sport.jpg) |
-| Samsung Galaxy S6 | - | SM-G920T | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G920TUVU3EPD1-T-Mobile-Galaxy-S6-marshmallow-stock-firmware.jpg) |
 | Samsung Galaxy S6 Edge+ | - | SM-G928T | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G928TUVU2DPD1-T-Mobile-S6-Edge-marshmallow.jpg) |
 | Gionee Pioneer | - | GiONEE P5W | April 01, 2016 | 5.1 | January 30, 2017 |
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
