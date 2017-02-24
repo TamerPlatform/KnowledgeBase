@@ -73,6 +73,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S4 Mini | serranoltexx | GT-I9195 | - | 4.4.2 | January 30, 2017 |
 | Samsung Galaxy S Advance | - | GT-I9070 | - | 4.1.2 | February 05, 2017 |
 | Sony Xperia C3 | - | - | - | 5.1.1 | February 04, 2017 |
+| Sony Xperia M2 | - | D2303 | - | 5.1.1 | February 24, 2017 |
 
 
 
