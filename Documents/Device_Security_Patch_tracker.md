@@ -34,6 +34,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 | - | SM-G930V | October 01, 2016 | 7.0 | Fenruary 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/11/G930VRU4ZPK4-Verizon-Galaxy-S7-Nougat.jpg) |
 | Xiaomi Redmi 2 | - | HM 2LTE-IN | October 01, 2016 | 5.1.1 (LMY47V) | January 30, 2017 |
 | Redmi 3S Prime | - |  -  | September 05, 2016  | 6.0.1| January 14, 2017 |
+| Lenovo Vibe K5 Note | - | A7020a48 | September 05, 2016 | 6.0 | 25 Feb 2017 |
 | Micromax Canvas 6 | - | E485 | September 01, 2016 | 5.1 | February 04, 2017 |
 | OnePlus One | bacon | A0001 | September 01, 2016 | 6.0.1 (MHC19Q) | January 14, 2017 |
 | Samsung Grand Neo Plus | - | GT-I9060I | September 01, 2016 | 4.4.4 | January 30, 2017 |
