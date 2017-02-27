@@ -9,7 +9,8 @@ The latest version of Android in production is **7.1.1** However as visible belo
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
 | BlackBerry PRiv | - | STV100-4 | February 05, 2017 | 6.0.1 | February 03, 2017 [Image](images/bb_priv_5_feb_2017.jpg) [Tweet](https://twitter.com/markusroedel/status/827446803385688064) |
-| Samsung Galaxy S7 | - | SM-G930T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
+| Samsung Galaxy S7 | - | SM-G930A | February 01, 2017 | 7.0 | February 28, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930AUCU4BQA6.jpg) |
+| Samsung Galaxy S7 | - | SM-G930T | February 01, 2017 | 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/G935TUVU4BQB1-T-Mobile-S7-edge-Nougat.jpg) |
 | Samsung Galaxy S6 | - | SM-G920T | February 01, 2017 | 6.0.1 | February 23, 2017 [Link](http://www.newsandroid.info/2017/02/23/galaxy-s6-february-security-patch-released-in-india/) |
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
@@ -34,11 +35,9 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 | - | SM-G930V | October 01, 2016 | 7.0 | Fenruary 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/11/G930VRU4ZPK4-Verizon-Galaxy-S7-Nougat.jpg) |
 | Xiaomi Redmi 2 | - | HM 2LTE-IN | October 01, 2016 | 5.1.1 (LMY47V) | January 30, 2017 |
 | Redmi 3S Prime | - |  -  | September 05, 2016  | 6.0.1| January 14, 2017 |
-| Lenovo Vibe K5 Note | - | A7020a48 | September 05, 2016 | 6.0 | 25 Feb 2017 |
 | Micromax Canvas 6 | - | E485 | September 01, 2016 | 5.1 | February 04, 2017 |
 | OnePlus One | bacon | A0001 | September 01, 2016 | 6.0.1 (MHC19Q) | January 14, 2017 |
 | Samsung Grand Neo Plus | - | GT-I9060I | September 01, 2016 | 4.4.4 | January 30, 2017 |
-| Samsung Galaxy S7 | - | SM-G930A | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/ATT-Galaxy-S7-official-firmware-OTA-updates.jpg) |
 | Samsung Galaxy S7 | - | SM-G930U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/Galaxy-S7-G930U-firmware-from-G930UUEU4API3-to-G930UUEU4APL2.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/G935UUEU4APL4-US-S7-edge.jpg) |
 | Samsung Galaxy A3 | - | SM-A300FU | August 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/A300FUXXU1CPH3-Galaxy-A3-A300FU-Marshmallow.jpg) |
