@@ -80,14 +80,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 ### Google Devices Status
 
-|Device Name | Code Name | Model Number | Android Security Level | Android Version | Report Update Date |
-|---|---|---|---|---|---|
-| Pixel XL | marlin | G-2PW4100,G-2PW4200 | January 05, 2017 | 7.1.1 | January 12, 2017 |
-| Pixel | sailfish | G-2PW2100,G-2PW2200 | January 05, 2017 | 7.1.1 | January 12, 2017 |
-| Nexus 6P | angler | H1511,H1512 | January 05, 2017 | 7.1.1 | January 12, 2017 |
-| Nexus 5X | bullhead | LG-H791 | January 05, 2017 | 7.1.1 | January 12, 2017 |
-| Nexus 5 | hammerhead | LG-D820, LG-D821 | - | 6.0.1 (M4B30Z) | January 12, 2017 |
-|---|---|---|---|---|---|
+[Google device are better tracked here](https://developers.google.com/android/ota)
 
 
 This page is an ongoing effort and we will try to maintain it in up to date condition to the best of our abilities.
