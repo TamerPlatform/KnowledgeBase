@@ -28,6 +28,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy J3 | j3xnltexx | SM-J320FN | December 01, 2016 | 5.1.1 | February 11, 2017 |
 | Samsung Galaxy S7 | - | SM-G930T | December 01, 2016 | 7.0 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/G930TUVU4ZPL3-T-Mobile-Galaxy-S7-Nougat.jpg) |
 | Xiaomi Mi 4i | - | - | December 01, 2016 | 5.0.2 | February 22, 2017 |
+| Motorola E 2nd Gen | - | - | December 01, 2016 | 6.0 | March 11, 2017 [Image](images/moto_e_2nd_gen_dec_16.png) |
 | Sony Xperia Z5 | - | E6633 | November 01, 2016 | 6.0.1 | February 04, 2017 |
 | Xiaomi MI4 | - | Mi 4W | November 01, 2016 | 6.0.1 (MMB29M) | January 30, 2017 |
 | Xiaomi MI4 | - | Mi 4i | November 01, 2016 | 5.0.2 | January 30, 2017 |
@@ -60,7 +61,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S6 Edge+ | - | SM-G928T | April 02, 2016 | 6.0.1 | February 15, 2017 [Image](http://www.androidromupdate.com/wp-content/uploads/2016/04/G928TUVU2DPD1-T-Mobile-S6-Edge-marshmallow.jpg) |
 | Gionee Pioneer | - | GiONEE P5W | April 01, 2016 | 5.1 | January 30, 2017 |
 | Lava X81 | - | X81 | March 01, 2016 | 6.0 | January 30, 2017 |
-| Motorola E 2nd Gen | - | - | February 01, 2016 | 6.0 | January 14, 2017 |
 | HTC One M8 | - | M8 | December 01, 2015 | 6.0 | February 22, 2017 |
 | Oppo F1s | - | A1601 | Not Applicable |  5.1 | January 14, 2017 |
 | HTC Desire 816G | - | - | - | 4.4.2 | February 04, 2017 |
