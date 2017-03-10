@@ -8,7 +8,9 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
-| BlackBerry PRiv | - | STV100-4 | February 05, 2017 | 6.0.1 | February 03, 2017 [Image](images/bb_priv_5_feb_2017.jpg) [Tweet](https://twitter.com/markusroedel/status/827446803385688064) |
+| BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [GSMArena](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
+| BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [GSMArena](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
+| BlackBerry DTK 60 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [GSMArena](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | Samsung Galaxy S7 | - | SM-G930A | February 01, 2017 | 7.0 | February 28, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930AUCU4BQA6.jpg) |
 | Samsung Galaxy S7 | - | SM-G930T | February 01, 2017 | 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/G935TUVU4BQB1-T-Mobile-S7-edge-Nougat.jpg) |
