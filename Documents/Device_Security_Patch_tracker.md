@@ -12,6 +12,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 60 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | Samsung Galaxy S7 | - | SM-G930A | February 01, 2017 | 7.0 | February 28, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930AUCU4BQA6.jpg) |
+| Samsung Galaxy S7 | - | SM-G930P | February 01, 2017 | 7.0 | March 11, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/03/G930PVPU4BQAA-Sprint-s7-G930P-Nougat.jpg) |
 | Samsung Galaxy S7 | - | SM-G930T | February 01, 2017 | 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935T | February 01, 2017| 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/G935TUVU4BQB1-T-Mobile-S7-edge-Nougat.jpg) |
 | Samsung Galaxy S6 | - | SM-G920T | February 01, 2017 | 6.0.1 | February 23, 2017 [Link](http://www.newsandroid.info/2017/02/23/galaxy-s6-february-security-patch-released-in-india/) |
