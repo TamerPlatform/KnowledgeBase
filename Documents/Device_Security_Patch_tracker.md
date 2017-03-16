@@ -4,13 +4,15 @@ hide_toc: true
 
 This list is Prepared to Serve as a Quick reference to identify which Device is being actively maintained by the Vendor. We will not Focus on Nexus or Google Maintained devices However we will try to get that status towards the bottom of the page.
 
-The latest version of Android in production is **7.1.1** However as visible below only nexus/pixel (Google supported) devices are running on the latest version.
+The latest version of Android in production is **7.1.1** However as visible below only handful of devices such as nexus/pixel (Google supported) devices are running on the latest version.
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
 | BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 60 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
+| OnePlus 3 | oneplus3 | A3003 | March 01, 2017 | 7.1.1 | March 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-0-7-1-1-ota-for-oneplus-3t.506195/) |
+| OnePlus 3T | oneplus3t | A3003 | March 01, 2017 | 7.1.1 | March 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-0-7-1-1-ota-for-oneplus-3t.506195/) |
 | Samsung Galaxy S7 | - | SM-G930A | February 01, 2017 | 7.0 | February 28, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930AUCU4BQA6.jpg) |
 | Samsung Galaxy S7 | - | SM-G930P | February 01, 2017 | 7.0 | March 11, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/03/G930PVPU4BQAA-Sprint-s7-G930P-Nougat.jpg) |
 | Samsung Galaxy S7 | - | SM-G930T | February 01, 2017 | 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
@@ -24,8 +26,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Lenovo Vibe K4 Note | - | A7010a48 | December 05, 2016 | 6.0 | February 01, 2017 [Image](images/Lenovo_Vibe_K4_Note_01_Feb_2017.jpg) |
 | Moto M | - | - | December 05, 2016 | 6.0 | February 17, 2017 [Image](images/Moto_M_17_Feb_2017.png) |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
-| OnePlus 3 | - | A3003 | December 01, 2016 | 7.0 | January 31, 2017 |
-| OnePlus 3T | oneplus3t | A3003 | December 01, 2016 | 7.0 | January 14, 2017 |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
 | Samsung Galaxy J3 | j3xnltexx | SM-J320FN | December 01, 2016 | 5.1.1 | February 11, 2017 |
 | Samsung Galaxy S7 | - | SM-G930T | December 01, 2016 | 7.0 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/G930TUVU4ZPL3-T-Mobile-Galaxy-S7-Nougat.jpg) |
