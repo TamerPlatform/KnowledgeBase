@@ -14,6 +14,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | OnePlus 3 | oneplus3 | A3003 | March 01, 2017 | 7.1.1 | March 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-0-7-1-1-ota-for-oneplus-3t.506195/) |
 | OnePlus 3T | oneplus3t | A3003 | March 01, 2017 | 7.1.1 | March 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-0-7-1-1-ota-for-oneplus-3t.506195/) |
 | Xperia X | - | F5122 | March 01, 2017 | 7.0 | March 17, 2017 [Link](http://www.gsmarena.com/march_security_patch_hitting_sony_xperia_x_x_performance_x_compact_and_xz-news-23984.php) [Image](http://cdn.gsmarena.com/imgroot/news/17/03/sony-march-security/inline/gsmarena_001.png) |
+| Samsung Galaxy A3 | - | SM-A300F | February 01, 2017 | 5.0.1 | March 18, 2017 [Link](http://androidromupdate.com/galaxy-a3-sm-a300f-firmware-downloads/) |
 | Samsung Galaxy S7 | - | SM-G930A | February 01, 2017 | 7.0 | February 28, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930AUCU4BQA6.jpg) |
 | Samsung Galaxy S7 | - | SM-G930P | February 01, 2017 | 7.0 | March 11, 2017 [Image](https://i2.wp.com/androidromupdate.com/wp-content/uploads/2017/03/G930PVPU4BQAA-Sprint-s7-G930P-Nougat.jpg) |
 | Samsung Galaxy S7 | - | SM-G930T | February 01, 2017 | 7.0 | February 18, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Nougat-G930TUVU4BQB1-Tmobile-s7.jpg) |
