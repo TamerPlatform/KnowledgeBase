@@ -33,7 +33,7 @@ after_success: |-
     linkchecker http://127.0.0.1:8000/
     kill -KILL $PID
     ps aux | grep SimpleHTTPServer
-    #echo "kb.androidtamer.com" > ./CNAME
+    echo "kb.androidtamer.com" > ./CNAME
     git init ;
     git add . ;
     git config --global user.name "Travis-CI";
