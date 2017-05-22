@@ -8,6 +8,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
+| Samsung Galaxy S7 Edge | - | SM-G935FD | May 01, 2017| 7.0 |  May 22, 2017 [Image](images/Samsung_Galaxy_S7_22_may_2017.jpg) |
 | Nokia 6 | - | - | April 01, 2017 | 7.1.1 | April 15, 2017 [Tweet](https://twitter.com/hykenblue/status/852836797172269056) |
 | BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
@@ -34,7 +35,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 Edge | - | SM-G935V | February 01, 2017 | 7.0 | March 19, 2017 [Link](http://androidromupdate.com/g935vvru4bqa2-android-7-0-nougat-verizon-galaxy-s7-edge-sm-g935v-firmware/) |
 | Samsung Galaxy S6 | - | SM-G920T | February 01, 2017 | 6.0.1 | February 23, 2017 [Link](http://www.newsandroid.info/2017/02/23/galaxy-s6-february-security-patch-released-in-india/) |
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
-| Samsung Galaxy S7 Edge | - | SM-G935FD | January 01, 2017| 7.0 |  January 26, 2017 [Image](images/SAMSUNG_GALAXY_s7_26_jan_2017.jpg) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
 | Vivo Y21L | - | - | January 01, 2017 | 5.1.1 | February 22, 2017 |
 | Samsung Galaxy Note 5 | - | SM-N920T | January 01, 2017 | 6.0.1 | April 20, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/04/N920TUVU4DQC2-T-Mobile-Note-5.jpg) |
