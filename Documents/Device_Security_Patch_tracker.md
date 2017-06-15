@@ -8,6 +8,8 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
+| OnePlus 3 | oneplus3 | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
+| OnePlus 3T | oneplus3t | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | May 01, 2017| 7.0 |  May 22, 2017 [Image](images/Samsung_Galaxy_S7_22_may_2017.jpg) |
 | Nokia 6 | - | - | April 01, 2017 | 7.1.1 | April 15, 2017 [Tweet](https://twitter.com/hykenblue/status/852836797172269056) |
 | BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
@@ -21,8 +23,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy Note 4 | - | SM-N910T | March 01, 2017 | 6.0.1 | April 26, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/04/N910TUVU2EQC1-T-Mobile-Note-4-update.jpg) |
 | Samsung Galaxy S6 Edge+ | - | SM-G928P | March 01, 2017 | 7.0 | April 20, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Nougat-G928PVPU3DQC5-Sprint-S6-edge.jpg) |
 | Samsung Galaxy S6 | - | SM-G920T | March 01, 2017 | 6.0 | May 05, 2017 [Link](http://androidromupdate.com/g920tuvu5eqc2-t-mobile-galaxy-s6-g920t-android-6-0-1-marshmallow-stock-firmware/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/T-Mobile-S6-G920TUVU5EQC2-firmware.jpg) |
-| OnePlus 3 | oneplus3 | A3003 | March 01, 2017 | 7.1.1 | March 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-0-7-1-1-ota-for-oneplus-3t.506195/) |
-| OnePlus 3T | oneplus3t | A3003 | March 01, 2017 | 7.1.1 | March 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-0-7-1-1-ota-for-oneplus-3t.506195/) |
 | Xperia X | - | F5122 | March 01, 2017 | 7.0 | March 17, 2017 [Link](http://www.gsmarena.com/march_security_patch_hitting_sony_xperia_x_x_performance_x_compact_and_xz-news-23984.php) [Image](http://cdn.gsmarena.com/imgroot/news/17/03/sony-march-security/inline/gsmarena_001.png) |
 | Samsung Galaxy A3 | - | SM-A300F | February 01, 2017 | 5.0.1 | March 18, 2017 [Link](http://androidromupdate.com/galaxy-a3-sm-a300f-firmware-downloads/) |
 | Samsung Galaxy S6 | - | SM-G920F | February 01, 2017 | 7.0 | March 22, 2017 [Link](http://androidromupdate.com/install-g920fxxu5eqac-official-android-7-0-nougat-firmware-on-galaxy-s6-sm-g920f-unlocked-variants/) [Image](http://androidromupdate.com/wp-content/uploads/2017/03/S6-Nougat-firmware-G920FXXU5EQAC.jpg) |
