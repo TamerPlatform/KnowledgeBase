@@ -15,6 +15,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 60 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
+| Samsung Galaxy A5 | a5ultexx | SM-A500FU | March 01, 2017 | 6.0.1 | July 28, 2017 [Image](images/Samsung_Galaxy_A5_28_July_2017.png) |
 | Samsung Galaxy Note 5 | - | SM-N920A | March 01, 2017 | 7.0 | May 05, 2017 [Link](http://androidromupdate.com/n920aucu4eqc6-att-galaxy-note-5-n920a-android-7-0-nougat-firmware-update/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Note-5-nougat-N920AUCU4EQC6-ATT.jpg) |
 | Samsung Galaxy Note 5 | - | SM-N920C | March 01, 2017 | 7.0 | March 24, 2017 [Link](http://androidromupdate.com/install-n920cxxu3cqc7-official-android-7-0-nougat-on-galaxy-note-5-sm-n920c/) [Image](http://androidromupdate.com/wp-content/uploads/2017/03/Note-5-N920CXXU3CQC7.jpg) |
 | Samsung Galaxy Note 5 | - | SM-N920P | March 01, 2017 | 7.0 | April 16, 2017 [Link](http://androidromupdate.com/n920pvpu3dqc5-sprint-galaxy-note-5-sm-n920p-android-7-0-nougat-stock-firmware/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Note5-N920PVPU3DQC5-Stock-firmware.jpg) |
@@ -62,7 +63,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 | - | SM-G930U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/Galaxy-S7-G930U-firmware-from-G930UUEU4API3-to-G930UUEU4APL2.jpg) |
 | Samsung Galaxy S7 Edge | - | SM-G935U | September 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/G935UUEU4APL4-US-S7-edge.jpg) |
 | Samsung Galaxy A3 | - | SM-A300FU | August 01, 2016 | 6.0.1 | February 10, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/01/A300FUXXU1CPH3-Galaxy-A3-A300FU-Marshmallow.jpg) |
-| Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2016 | 6.0.1 | February 15, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/02/Galaxy-A5-A500FU-Marshmallow-Firmware-Update-234x400.jpg) |
 | Samsung Galaxy Note 4 | - | SM-N910A | August 01, 2016 | 6.0.1 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/N910AATT2EPH5-ATT-Note-4.jpg) |
 | Moto G2 | - | - | August 01, 2016 | 6.0 | January 30, 2017 |
 | Moto G4 | retus | - | July 01, 2016 | 6.0.1 | January 29, 2017 [Image](images/motog4_29_jan_2017.png) |
