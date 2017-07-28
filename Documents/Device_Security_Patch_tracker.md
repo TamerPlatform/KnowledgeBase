@@ -10,6 +10,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 |---|---|---|---|---|---|
 | OnePlus 3 | oneplus3 | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
 | OnePlus 3T | oneplus3t | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
+| Samsung Galaxy J3 | j3xnltexx | SM-J320FN | May 01, 2017 | 5.1.1 | July 28, 2017 [Image](images/Samsung_Galaxy_J3_28_July_2017.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | May 01, 2017| 7.0 |  May 22, 2017 [Image](images/Samsung_Galaxy_S7_22_may_2017.jpg) |
 | Nokia 6 | - | - | April 01, 2017 | 7.1.1 | April 15, 2017 [Tweet](https://twitter.com/hykenblue/status/852836797172269056) |
 | BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
@@ -44,7 +45,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Moto M | - | - | December 05, 2016 | 6.0 | February 17, 2017 [Image](images/Moto_M_17_Feb_2017.png) |
 | Moto G4 Plus | retin | - | December 01, 2016 | 7.0 | January 30, 2017 [Image](images/MOTO_G4_plus_30_jan_2017.jpg) |
 | Samsung Galaxy J2 | - | SM-J200G | December 01, 2016 | 5.1.1 | January 30, 2017 |
-| Samsung Galaxy J3 | j3xnltexx | SM-J320FN | December 01, 2016 | 5.1.1 | February 11, 2017 |
 | Samsung Galaxy S7 | - | SM-G930T | December 01, 2016 | 7.0 | February 13, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2016/12/G930TUVU4ZPL3-T-Mobile-Galaxy-S7-Nougat.jpg) |
 | Xiaomi Mi 4i | - | - | December 01, 2016 | 5.0.2 | February 22, 2017 |
 | Motorola E 2nd Gen | - | - | December 01, 2016 | 6.0 | March 11, 2017 [Image](images/moto_e_2nd_gen_dec_16.png) |
