@@ -8,13 +8,22 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
+| HTC U11 | - | - | July 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/shahamit99/status/885801962343587840) |
+| Pixel XL | - | - | July 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/ePandu/status/886113686137458688) |
+| Honor 6x | - | - | June 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/NexToWeb/status/885866448672796672) |
+| Asus Zenfone 3 | - | ZE552KL | June 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885853948732506114) |
+| Samsung Galaxy S8 | - | - | June 01, 2017 | 7.1 | July 14, 2017 [Tweet](https://twitter.com/ePandu/status/886113686137458688) |
+| OnePlus 5 | oneplus5 | A5000 | May 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/shimonips/status/886115126956277760) |
 | OnePlus 3 | oneplus3 | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
 | OnePlus 3T | oneplus3t | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | May 01, 2017| 7.0 |  May 22, 2017 [Image](images/Samsung_Galaxy_S7_22_may_2017.jpg) |
+| Samsung Galaxy S6 | - | - | May 01, 2017 | 7.0 | July 17, 2017 [Tweet](https://twitter.com/r0han/status/885856339880226816) |
 | Nokia 6 | - | - | April 01, 2017 | 7.1.1 | April 15, 2017 [Tweet](https://twitter.com/hykenblue/status/852836797172269056) |
 | BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | BlackBerry DTK 60 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
+| LG G6 | - | - | March 01, 2017 | 7.1.2 | July 14, 2017 [Tweet](https://twitter.com/mikig2/status/885816748322238468) |
+| Moto G5 Plus | - | - | March 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885870099189481472) |
 | Samsung Galaxy Note 5 | - | SM-N920A | March 01, 2017 | 7.0 | May 05, 2017 [Link](http://androidromupdate.com/n920aucu4eqc6-att-galaxy-note-5-n920a-android-7-0-nougat-firmware-update/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Note-5-nougat-N920AUCU4EQC6-ATT.jpg) |
 | Samsung Galaxy Note 5 | - | SM-N920C | March 01, 2017 | 7.0 | March 24, 2017 [Link](http://androidromupdate.com/install-n920cxxu3cqc7-official-android-7-0-nougat-on-galaxy-note-5-sm-n920c/) [Image](http://androidromupdate.com/wp-content/uploads/2017/03/Note-5-N920CXXU3CQC7.jpg) |
 | Samsung Galaxy Note 5 | - | SM-N920P | March 01, 2017 | 7.0 | April 16, 2017 [Link](http://androidromupdate.com/n920pvpu3dqc5-sprint-galaxy-note-5-sm-n920p-android-7-0-nougat-stock-firmware/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Note5-N920PVPU3DQC5-Stock-firmware.jpg) |
@@ -36,6 +45,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 Edge | - | SM-G935V | February 01, 2017 | 7.0 | March 19, 2017 [Link](http://androidromupdate.com/g935vvru4bqa2-android-7-0-nougat-verizon-galaxy-s7-edge-sm-g935v-firmware/) |
 | Samsung Galaxy S6 | - | SM-G920T | February 01, 2017 | 6.0.1 | February 23, 2017 [Link](http://www.newsandroid.info/2017/02/23/galaxy-s6-february-security-patch-released-in-india/) |
 | LG G4 | - | LG-H811 | January 01, 2017 | 6.0 | February 01, 2017 [Image](images/LG-G4-Tmobile_01_Feb.png) |
+| Moto X Play | - | - | January 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/modibimal/status/885866641665409026) |
 | Samsung Galaxy Note 4 | - |- | January 01, 2017 | 6.0.1 | January 18, 2017  [GSMArena](http://www.gsmarena.com/january_security_update_starts_hitting_samsung_galaxy_note_4-news-22814.php) |
 | Vivo Y21L | - | - | January 01, 2017 | 5.1.1 | February 22, 2017 |
 | Samsung Galaxy Note 5 | - | SM-N920T | January 01, 2017 | 6.0.1 | April 20, 2017 [Image](http://androidromupdate.com/wp-content/uploads/2017/04/N920TUVU4DQC2-T-Mobile-Note-5.jpg) |
