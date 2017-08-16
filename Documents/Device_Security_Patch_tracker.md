@@ -8,6 +8,9 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 |Device Name | Code Name | Model Number | Android Security Level | Android Version | Reported (reference if any) |
 |---|---|---|---|---|---|
+| BlackBerry Priv | - | STV100-4 | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
+| BlackBerry DTK 50 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
+| BlackBerry DTK 60 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
 | HTC U11 | - | - | July 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/shahamit99/status/885801962343587840) |
 | Pixel XL | - | - | July 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/ePandu/status/886113686137458688) |
 | Honor 6x | - | - | June 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/NexToWeb/status/885866448672796672) |
@@ -21,9 +24,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Samsung Galaxy S7 | - | SM-G930F | May 01, 2017 | 7.0 | August 09, 2017 [Image](images/Samsung_Galaxy_S7_may_2017.png) |
 | Samsung Galaxy S6 | - | - | May 01, 2017 | 7.0 | July 17, 2017 [Tweet](https://twitter.com/r0han/status/885856339880226816) |
 | Nokia 6 | - | - | April 01, 2017 | 7.1.1 | April 15, 2017 [Tweet](https://twitter.com/hykenblue/status/852836797172269056) |
-| BlackBerry Priv | - | STV100-4 | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
-| BlackBerry DTK 50 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
-| BlackBerry DTK 60 | - | - | March 05, 2017 | 6.0.1 | March 10, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000039151) [GSMArena](http://www.gsmarena.com/blackberry_publishes_march_security_update_for_its_androids-news-23848.php) |
 | LG G6 | - | - | March 01, 2017 | 7.1.2 | July 14, 2017 [Tweet](https://twitter.com/mikig2/status/885816748322238468) |
 | Moto G5 Plus | - | - | March 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885870099189481472) |
 | Samsung Galaxy A5 | a5ultexx | SM-A500FU | March 01, 2017 | 6.0.1 | July 28, 2017 [Image](images/Samsung_Galaxy_A5_28_July_2017.png) |
