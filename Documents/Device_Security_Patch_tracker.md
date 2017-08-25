@@ -11,14 +11,13 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | BlackBerry Priv | - | STV100-4 | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
 | BlackBerry DTK 50 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
 | BlackBerry DTK 60 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
+| OnePlus 3 | oneplus3 | A3003 | August 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-ota-for-oneplus-3-3t.609756/) |
+| OnePlus 3T | oneplus3t | A3003 | Auguest 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-ota-for-oneplus-3-3t.609756/) |
 | HTC U11 | - | - | July 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/shahamit99/status/885801962343587840) |
-| Pixel XL | - | - | July 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/ePandu/status/886113686137458688) |
 | Honor 6x | - | - | June 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/NexToWeb/status/885866448672796672) |
 | Asus Zenfone 3 | - | ZE552KL | June 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885853948732506114) |
 | Samsung Galaxy S8 | - | - | June 01, 2017 | 7.1 | July 14, 2017 [Tweet](https://twitter.com/ePandu/status/886113686137458688) |
 | OnePlus 5 | oneplus5 | A5000 | May 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/shimonips/status/886115126956277760) |
-| OnePlus 3 | oneplus3 | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
-| OnePlus 3T | oneplus3t | A3003 | May 01, 2017 | 7.1.1 | June 16, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-6-7-1-1-ota-for-oneplus-3-and-3t.547283/) |
 | Samsung Galaxy J3 | j3xnltexx | SM-J320FN | May 01, 2017 | 5.1.1 | July 28, 2017 [Image](images/Samsung_Galaxy_J3_28_July_2017.png) |
 | Samsung Galaxy S7 Edge | - | SM-G935FD | May 01, 2017| 7.0 |  May 22, 2017 [Image](images/Samsung_Galaxy_S7_22_may_2017.jpg) |
 | Samsung Galaxy S7 | - | SM-G930F | May 01, 2017 | 7.0 | August 09, 2017 [Image](images/Samsung_Galaxy_S7_may_2017.png) |
