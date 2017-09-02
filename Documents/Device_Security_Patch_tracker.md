@@ -11,8 +11,8 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | BlackBerry Priv | - | STV100-4 | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
 | BlackBerry DTK 50 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
 | BlackBerry DTK 60 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
-| OnePlus 3 | oneplus3 | A3003 | August 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-ota-for-oneplus-3-3t.609756/) |
-| OnePlus 3T | oneplus3t | A3003 | Auguest 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-ota-for-oneplus-3-3t.609756/) |
+| OnePlus 3 | oneplus3 | A3003 | August 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-7-1-1-ota-for-the-oneplus-3-and-3t.618047/) |
+| OnePlus 3T | oneplus3t | A3003 | Auguest 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-7-1-1-ota-for-the-oneplus-3-and-3t.618047/) |
 | HTC U11 | - | - | July 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/shahamit99/status/885801962343587840) |
 | Honor 6x | - | - | June 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/NexToWeb/status/885866448672796672) |
 | Asus Zenfone 3 | - | ZE552KL | June 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885853948732506114) |
