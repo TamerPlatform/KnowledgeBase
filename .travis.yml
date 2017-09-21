@@ -12,6 +12,7 @@ install:
 - pip install python-markdown-oembed
 - pip install linkchecker
 - pip install requests
+- pip install pymdown-extensions
 before_script:
 - git config remote.origin.url git@github.com:${TRAVIS_REPO_SLUG}
 - COMMIT_MESSAGE="Test Commit `date "+%Y-%m-%d %H:%M:%S"` from `git log -n 1 --format='commit

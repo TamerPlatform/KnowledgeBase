@@ -8,6 +8,7 @@ markdown_extensions:
   - markdown_newtab
   - oembed
   - markdown_checklist.extension
+  - pymdownx.details
 #include_next_prev: false
 copyright: (c) Android Tamer Team
 site_favicon: favicon.ico
