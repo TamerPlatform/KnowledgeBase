@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="KnowledgeBase for Android Tamer">
+        <meta name="author" content="AndroidTamer Team">
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <meta name="twitter:card" content="summary" />
+        
+        <meta name="twitter:site" content="https://www.twitter.com/AndroidTamer" />
+        
+        <meta name="twitter:title" content="AndroidTamer-KB" />
+        <meta property="og:title" content="AndroidTamer-KB" />
+        <meta property="og:url" content="" />
+        
+        <meta property="og:description" content="KnowledgeBase for Android Tamer" />
+        <meta name="twitter:description" content="KnowledgeBase for Android Tamer" />
+        
+        
+        <title>Android security enhancement - AndroidTamer-KB</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        
+        
+        <link rel="stylesheet" href="../css/highlight.css">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="..">AndroidTamer-KB</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../Device_Security_Patch_tracker/">Device Security Patch tracker</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../android_file_system_hierarchy/">Android file system hierarchy</a>
+                    </li>
+                
+                
+                
+                    <li class="active">
+                        <a href="./">Android security enhancement</a>
+                    </li>
+                
+                
+                </ul>
+            
+
+            <ul class="nav navbar-nav navbar-right">
+                
+                
+                
+                    <li>
+                        <a href="https://www.twitter.com/AndroidTamer"><i class="fa fa-twitter fa-lg"></i></a>
+                    </li>
+                
+                
+                    <li>
+                        <a href="https://www.facebook.com/AndroidTamer"><i class="fa fa-facebook fa-lg"></i></a>
+                    </li>
+                
+                
+                
+                    <li>
+                        <a href="https://webchat.freenode.net/?url=irc://irc.freenode.net/androidtamer"><i class="fa fa-hashtag fa-lg"></i></a>
+                    </li>
+                
+                
+                    <li>
+                        <a href="https://github.com/AndroidTamer">
+                            
+                                <i class="fa fa-github fa-lg"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+            
+                
+                    <div class="col-md-12" role="main">
+
+<div class="content">
+
+
+<h1 id="android-security-enhancement-list">Android Security Enhancement List</h1>
+<p>This page catalogues how android security has evolved over various versions of android. We strive to catalogue which version introduced a specific security feature or tweaked it as well as which version fixed a specific flaw.</p>
+<table>
+<thead>
+<tr>
+<th>Android Version</th>
+<th>Security Enhancement</th>
+<th>Details</th>
+<th>Reference / Bypass (if applicable)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>5.0</td>
+<td>Webview : de-coupled from core and OTA based upgrade</td>
+<td>WebView can now be updated independent of the framework and without a system OTA. This will allow for faster response to potential security issues in WebView</td>
+<td><a href="https://plus.google.com/u/0/+GoogleChromeDevelopers/posts/Pb6BRDvRYVt" target="_blank">Chrome developers G+ Post</a> <br /> <a href="https://developer.chrome.com/multidevice/webview/overview" target="_blank">WebView for android</a></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Fixed : SQL injection vulnerability in WAPPushManager</td>
+<td>In Android &lt;5.0, a SQL injection vulnerability exists in the opt module WAPPushManager, attacker can remotely send malformed WAPPush message to launch any activity or service in the victim's phone (need permission check)</td>
+<td><a href="https://android.googlesource.com/platform/frameworks/base/+/48ed835468c6235905459e6ef7df032baf3e4df6" target="_blank">Fixed commit</a> <br /> <a href="http://www.exploit-db.com/exploits/35382/" target="_blank">POC : CVE-2014-8507 </a></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Fixed : Privilege Escalation using ObjectInputStream</td>
+<td>In Android &lt;5.0, java.io.ObjectInputStream did not check whether the Object that is being deserialized is actually serializable.</td>
+<td><a href="https://android.googlesource.com/platform/libcore/+/738c833d38d41f8f76eb7e77ab39add82b1ae1e2" target="_blank">Fixed Commit</a>  <br/> <a href="http://www.securityfocus.com/data/vulnerabilities/exploits/71176.java" target="_blank">POC : CVE-2014-7911</a></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Fixed : SMS resend vulnerability</td>
+<td>Applications can send SMS without privilege leading to undesired cost to user or be used for data exfiltration</td>
+<td><a href="https://android.googlesource.com/platform/packages/apps/Mms/+/008d6202fca4002a7dfe333f22377faa73585c67" target="_blank">Fixed commit</a>  <br/>  <a href="http://xteam.baidu.com/?p=164" target="_blank">POC for CVE-2014-8610 </a></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>FORTIFY_SOURCE improvements</td>
+<td>Protection against memory-corruption vulnerabilities involving stpcpy(), stpncpy(), read(), recvfrom(), FD_CLR(), FD_SET(), and FD_ISSET() libc functions</td>
+<td></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>non-PIE linker support removed</td>
+<td>Enhancing Address Space Layout Randomization (ASLR) by requiring all dynamically linked executables to support PIE (Position-Independent Executables)</td>
+<td></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Cryptography SSL/TLS</td>
+<td>TLSv1.1 &amp; TLSv1.2 are enabled, Forward Secrecy preferred and disabled weakcipher suits (MD5, 3DES)</td>
+<td><a href="https://developer.android.com/reference/javax/net/ssl/SSLSocket.html" target="_blank">SSL Socket Reference : Android Developer Site</a></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Guest mode &amp; multiple profile support</td>
+<td>Guest mode and support for multiple user profiles Easier for providing easy temporary access to the device</td>
+<td></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Security Enhanced Linux (SELinux)</td>
+<td>SELinux Enforcing Mode is required for all applications on the device.</td>
+<td></td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Full Disk Encryption by Default</td>
+<td>Devices shipped with Lollipop will have full disk encryption at first boot, using a unique key.</td>
+<td>This feature can be turned off by Vendor's.</td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>Smart Lock (screen lock)</td>
+<td>Unlock your phone using Bluetooth pairing, NFC, Geofence (GPS Location) or simply your smile (Face unlock improvements)</td>
+<td></td>
+</tr>
+<tr>
+<td>4.4.4</td>
+<td>Block access to java.lang.Object.getClass in injected Java objects</td>
+<td>Throws a java.lang.SecurityException on Browser UI thread when an attempt is  made to execute java.lang.Object.getClass from JavaScript code via an injected  Java object.</td>
+<td>Refer : <a href="https://codereview.chromium.org/213693005" target="_blank">Chromium BugTrack entry</a>  <br/>  <a href="https://code.google.com/p/chromium/issues/detail?id=359528" target="_blank">Chromium Issue entry</a></td>
+</tr>
+<tr>
+<td>4.4.4</td>
+<td>Fix for OpenSSL man-in-the-middle</td>
+<td>CVE ID : CVE-2014-0224</td>
+<td>Refer : <a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-0224" target="_blank">CVE 2014-0224 Entry</a></td>
+</tr>
+<tr>
+<td>4.4.3</td>
+<td>Chrome Vulnerability Fix</td>
+<td>1. timing-based security attack in Chrome2. fix for CVE-2014-1710</td>
+<td><a href="https://code.google.com/p/chromium/issues/detail?id=251711" target="_blank">Chromium Bug Tracker Entry</a> <br/> Refer : <a href="http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2014-1710" target="_blank">CVE 2014-1710</a></td>
+</tr>
+<tr>
+<td>4.4.3</td>
+<td>Lock screen Credentials set vulnerability fix</td>
+<td>As per Changelog :   Bug: 9858403 : lock screen credential reset w/o previous credentialsThe test asks the user to first set a lock screen password and then  launch an intent to change it, using an EXTRA that was not being properly  validated before the vulnerability was fixed.</td>
+<td>reference : <a href="https://android.googlesource.com/platform/cts/+/0e2d6d9" target="_blank">AOSP Code Commit entry</a></td>
+</tr>
+<tr>
+<td>4.4.2</td>
+<td>Removal of the "App Ops" application permissions control system</td>
+<td>App Ops permission system which was available since 4.3 was removed completely from GUI in this release</td>
+<td>Bypass : <a href="http://repo.xposed.info/module/at.jclehner.appopsxposed" target="_blank">Functionality launcher etc can be restored by an Xposed framework module</a></td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>dm-verity</td>
+<td>transparent integrity checking of block devices. dm-verity helps prevent persistent rootkits that can hold onto root privileges and compromise devices.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>SE_Linux =&gt; Enforced Mode</td>
+<td>all root domain binaries are working in enforced mode. remaining still work in permissive mode</td>
+<td><a href="http://source.android.com/devices/tech/security/se-linux.html" target="_blank">SE Linux Details</a></td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>FORTIFY_SOURCE</td>
+<td>Level 2 : full source code compiled with FORTIFY_SOURCE and clang support added.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>SSL CA Certificate Warnings</td>
+<td>Warns when any certificate is added to the device certificate store</td>
+<td><a href="http://forum.xda-developers.com/showthread.php?t=2533550" target="_blank">Bypass available already</a></td>
+</tr>
+<tr>
+<td>4.4</td>
+<td>WRITE_EXTERNAL_STORAGE permission to write to SDCARD</td>
+<td>This permission is required by applications in order to write to External Storage i.e. SDCARD.</td>
+<td><a href="https://developer.android.com/reference/android/Manifest.permission.html#WRITE_EXTERNAL_STORAGE" target="_blank">Android External Storage write permission </a>  <br/> Also read <a href="https://support.google.com/android/answer/6046191" target="_blank">Storing app data on SD cards</a></td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>Restrict Setuid from Android Apps</td>
+<td>No Zygote spanned process is allowed to execute setuid program. /system is mounted with nosetuid</td>
+<td><a href="https://plus.google.com/+Chainfire/posts/WqS2E9kkN1L" target="_blank">Bypassed by Chainfire</a></td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>FORTIFY_SOURCE</td>
+<td>Android x86 and MIPS and fortified strchr(), strrchr(), strlen(), and umask() calls</td>
+<td></td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>SE_Linux =&gt; Permissive</td>
+<td>allows logging but doesn't restrict actions</td>
+<td></td>
+</tr>
+<tr>
+<td>4.3</td>
+<td>Trusted Platform Module (TPM) support</td>
+<td>Hardware backed storage for KeyChain making keys unavailable for extraction</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2.2</td>
+<td>ADB Authentication</td>
+<td>Prevents unauthorised use of ADB by the use of RSA keypair for authentication</td>
+<td><a href="http://source.android.com/devices/tech/security/enhancements43.html" target="_blank">Android 4.3 Security Enhancement Announcement</a></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>FORTIFY_SOURCE</td>
+<td>Level 1 : This is used by system libraries and applications to prevent memory corruption</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Application verification</td>
+<td>user can opt for client side bouncer instance and google can verify malacious applications before installation.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Certificate Pinning</td>
+<td>if chain of certs doesn't match an error message is added.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>installd config</td>
+<td>installd runs as non root from start.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>ContentProvider security</td>
+<td>by default contentprovider will be set to false for API &lt;=17</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>init config</td>
+<td>O_NOFOLLOW added to init to avoid symbolic link attacks.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>premium SMS notification</td>
+<td>SMS to premium numbers now display a notification and only allow needing when explicitely accepted.</td>
+<td></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>SecureRandom implementation</td>
+<td>SecureRandom implementation based on OpenSSL, Bounty castle implementation removed.</td>
+<td><a href="http://source.android.com/devices/tech/security/dm-verity.html" target="_blank">details here</a></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>JavascriptInterface annotation</td>
+<td>JavascriptInterface needs to be annotated for webview</td>
+<td>exploit possible for &lt;4.2 devices. and applications using API &lt; 17  Reference : <a href="https://github.com/jduck/addjsif" target="_blank">Metasploit Module</a>  <br/>  <a href="http://www.droidsec.org/tests/addjsif/" target="_blank">Test Page : identifies if browser or webview is vulnerable.</a>  <br/>  <a href="http://www.droidsec.org/news/2014/02/26/on-the-webview-addjsif-saga.html" target="_blank">Additional Details</a></td>
+</tr>
+<tr>
+<td>4.2</td>
+<td>Cryptography</td>
+<td>SSLSocket support for TLSv1.1 and TLSv1.2 using OpenSSL 1.0.1</td>
+<td></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>PIE (Position Independent Executable) support</td>
+<td>Support for binaries compiled with GCC's -pie -fPIE flags  (executables to be position independent)</td>
+<td></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>Read-only relocations / immediate binding</td>
+<td>(-Wl,-z,relro -Wl,-z,now)</td>
+<td></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>kernel address leakage prevention</td>
+<td>dmesg_restrict and kptr_restrict enabled</td>
+<td>kptr_restrict mitigates <a href="http://jon.oberheide.org/files/levitator.c" target="_blank">Levitator Exploit</a></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>ELF Hardening</td>
+<td>RELRO / BIND_NOW flag default. This hardens those binaries against attacks that may attempt to overwrite the GOT and other sensitive ELF structures by making them read-only at startup.</td>
+<td><a href="http://c-skills.blogspot.com/2011/04/yummy-yummy-gingerbreak.html" target="_blank">breaks Gingerbreak Exploit </a>  <br/>  <a href="http://isisblogs.poly.edu/2011/06/01/relro-relocation-read-only/" target="_blank">more details on RELRO here </a></td>
+</tr>
+<tr>
+<td>4.1</td>
+<td>ASLR support</td>
+<td>Full ASLR support</td>
+<td></td>
+</tr>
+<tr>
+<td>4.0.3</td>
+<td>Randomize Heap/brk mapping</td>
+<td>kernel.randomize_va_space is set to 2</td>
+<td></td>
+</tr>
+<tr>
+<td>4.0</td>
+<td>ASLR support</td>
+<td>ASLR support started appearing although not fully. Multiple flaws were present dynamic linker didn't had ASLR and many more outlined in reference link</td>
+<td><a href="https://www.duosecurity.com/blog/a-look-at-aslr-in-android-ice-cream-sandwich-4-0" target="_blank">ASLR support review by duo security</a></td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>full filesystem encryption</td>
+<td>Full disk encryption added</td>
+<td><a href="https://web.archive.org/web/20130129001617/http://source.android.com/tech/encryption/android_crypto_implementation.html" target="_blank">Details on this archive link</a></td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>format string vulnerability protection</td>
+<td>added -Wformat-security -Werror=format-security</td>
+<td></td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>code execution prevention on stack and heap</td>
+<td>Hardware-based No eXecute (NX)</td>
+<td></td>
+</tr>
+<tr>
+<td>2.3</td>
+<td>null pointer dereference protection</td>
+<td>mmap_min_addr</td>
+<td></td>
+</tr>
+<tr>
+<td>2.2</td>
+<td>Device Administration</td>
+<td>Android Device Administration API added</td>
+<td><a href="https://developer.android.com/guide/topics/admin/device-admin.html" target="_blank">Device Adminstration Guide</a></td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>Stack / buffer overrun protection</td>
+<td>ProPolice to prevent stack buffer overruns (-fstack-protector)</td>
+<td><a href="https://web.archive.org/web/20130123122312/http://source.android.com/tech/security/index.html#memory-management-security-enhancements" target="_blank">Memory Management Enhancement : Old Archive link</a></td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>Integer overflow protection</td>
+<td>safe_iop</td>
+<td></td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>Integer overflow memory allocation</td>
+<td>OpenBSD calloc</td>
+<td></td>
+</tr>
+<tr>
+<td>1.5</td>
+<td>chunk consolidation attack</td>
+<td>Extensions to OpenBSD dlmalloc() to prevent double free()</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p>This page is an ongoing effort and we will try to maintain it in up to date condition to the best of our abilities.</p>
+<p><strong>Credits :</strong></p>
+<p>This list is aggregated by <a href="http://anantshri.info" target="_blank">Anant Shrivastava</a> and <a href="http://prashantmahajan.wordpress.com/" target="_blank">Prashant Mahajan</a>. References where ever applicable are properly placed in the reference section.</p>
+<p>Thanks to following folks for helping us with additional inputs.
+<ul>
+    <li><a href="http://ankurbhargava.com" rel="nofollow" target="_blank">Ankur Bhargava</a></li>
+    <li><a href="http://manifestsecurity.com" rel="nofollow" target="_blank">Aditya Agrawal</a></li>
+</ul>
+Feel free to suggest corrections / additions in the list via either comments or a email to <a href="mailto:androidsecurityenhancement at androidtamer dot com">AndroidSecurityEnhancement at androidTamer dot com</a></p>
+
+</div></div>
+                
+            
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            
+                <p>(c) Android Tamer Team</p>
+            
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> - Last updated : 2017-09-21</p>
+        </footer>
+
+        <script src="../js/jquery-1.12.3.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script>
+        
+        <script>var base_url = '..';</script>
+
+        <script src="../js/base.js"></script>
+
+    </body>
+</html>

@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="KnowledgeBase for Android Tamer">
+        <meta name="author" content="AndroidTamer Team">
+        
+        <link rel="shortcut icon" href="../img/favicon.ico">
+        <meta name="twitter:card" content="summary" />
+        
+        <meta name="twitter:site" content="https://www.twitter.com/AndroidTamer" />
+        
+        <meta name="twitter:title" content="AndroidTamer-KB" />
+        <meta property="og:title" content="AndroidTamer-KB" />
+        <meta property="og:url" content="" />
+        
+        <meta property="og:description" content="KnowledgeBase for Android Tamer" />
+        <meta name="twitter:description" content="KnowledgeBase for Android Tamer" />
+        
+        
+        <title>Android file system hierarchy - AndroidTamer-KB</title>
+        <link href="../css/bootstrap-custom.min.css" rel="stylesheet">
+        <link href="../css/font-awesome-4.5.0.css" rel="stylesheet">
+        <link href="../css/base.css" rel="stylesheet">
+        
+        
+        <link rel="stylesheet" href="../css/highlight.css">
+
+        <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!--[if lt IE 9]>
+            <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+            <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+        <![endif]-->
+    </head>
+
+    <body>
+
+        <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container">
+
+        <!-- Collapsed navigation -->
+        <div class="navbar-header">
+            <!-- Expander button -->
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            
+
+            <!-- Main title -->
+            <a class="navbar-brand" href="..">AndroidTamer-KB</a>
+        </div>
+
+        <!-- Expanded navigation -->
+        <div class="navbar-collapse collapse">
+            
+                <!-- Main navigation -->
+                <ul class="nav navbar-nav">
+                
+                
+                    <li >
+                        <a href="..">Home</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../Device_Security_Patch_tracker/">Device Security Patch tracker</a>
+                    </li>
+                
+                
+                
+                    <li class="active">
+                        <a href="./">Android file system hierarchy</a>
+                    </li>
+                
+                
+                
+                    <li >
+                        <a href="../android_security_enhancement/">Android security enhancement</a>
+                    </li>
+                
+                
+                </ul>
+            
+
+            <ul class="nav navbar-nav navbar-right">
+                
+                
+                
+                    <li>
+                        <a href="https://www.twitter.com/AndroidTamer"><i class="fa fa-twitter fa-lg"></i></a>
+                    </li>
+                
+                
+                    <li>
+                        <a href="https://www.facebook.com/AndroidTamer"><i class="fa fa-facebook fa-lg"></i></a>
+                    </li>
+                
+                
+                
+                    <li>
+                        <a href="https://webchat.freenode.net/?url=irc://irc.freenode.net/androidtamer"><i class="fa fa-hashtag fa-lg"></i></a>
+                    </li>
+                
+                
+                    <li>
+                        <a href="https://github.com/AndroidTamer">
+                            
+                                <i class="fa fa-github fa-lg"></i>
+                            
+                            GitHub
+                        </a>
+                    </li>
+                
+            </ul>
+        </div>
+    </div>
+</div>
+
+        <div class="container">
+            
+                
+                    <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
+    <ul class="nav bs-sidenav">
+    
+        <li class="main active"><a href="#android-file-system-hierarchy">Android File System Hierarchy</a></li>
+        
+            <li><a href="#does-this-looks-wrong">Does this looks wrong</a></li>
+        
+            <li><a href="#changelog">Changelog</a></li>
+        
+    
+    </ul>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<div class="content">
+
+
+<h1 id="android-file-system-hierarchy">Android File System Hierarchy</h1>
+<p>This page will contain a replica structure of Android File System</p>
+<p>/ : Base system</p>
+<ul>
+<li><details class="cache"><summary>Cache</summary>
+Cache Folder : Used as scratch pad by OS place dex optimized dalvik bitecode</details></li>
+<li><details class="data"><summary>Data</summary>
+Contains USER Data Stored as a separate partition in mtdblocks mounted at bootup   <ul><li>anr</li><li>idd</li><li>system</li><li>radio</li><li>property</li><li><details class="app"><summary>App</summary>
+Application : User installed</details></li><li><details class="data"><summary>Data</summary>
+Downloaded, updated and manually installed apps folder for each app named as package name.</details></li><li><details class="local"><summary>Local</summary></details></li></ul></details></li>
+<li>dalivk-cache</li>
+<li><details><summary>default.prop</summary>
+Default property settings, values restored from this file on every restart. Changes in this file will not be retained.</details></li>
+<li><details class="dev"><summary>Dev</summary>
+Device file system pointers<ul><li><details><summary>tty 1 - 63</summary></details></li><li><details class="null"><summary>Null</summary></details></li><li><details class="zero"><summary>Zero</summary></details></li><li><details class="block"><summary>Block</summary>
+Block Devices<ul><li><details><summary>loop 0-7</summary>
+Loop back devices</details></li><li><details><summary>mtdblock 0 - 6-8</summary>
+MTD BLOCKS : Device internal memory</details></li><li><details class="mmcblk0"><summary>Mmcblk0</summary>
+SDCARD Block Device</details></li></ul></details></li></ul></details></li>
+<li><details><summary>etc -&gt; /system/etc</summary>
+Soft link to /system/etc Directory</details></li>
+<li>hw_config.sh</li>
+<li><details class="init"><summary>Init</summary>
+INIT executable, this is also the place where device nodes are created by listening to uevents</details></li>
+<li><details><summary>init.rc</summary>
+Initial Configuration file : decompressed from ramdisk</details></li>
+<li><details><summary>logo.rle</summary>
+Boot Time Logo</details></li>
+<li><details class="proc"><summary>Proc</summary><ul><li><details class="last_kmsg"><summary>Last_kmsg</summary>
+Previous Sessions Kernel message log</details></li><li>partitions</li><li>diskstats</li><li><details class="kmsg"><summary>Kmsg</summary>
+Kernel Message log simmilar to dmesg in linux</details></li><li><details class="cpuinfo"><summary>Cpuinfo</summary>
+CPU information simmillar to linux</details></li><li><details><summary>config.gz</summary>
+Copy of .config used to compile kernel (optional)</details></li></ul></details></li>
+<li><details class="root"><summary>Root</summary></details></li>
+<li><details class="sbin"><summary>Sbin</summary>
+Part of Ramdisk Content : This contains various executables required for Bootup</details></li>
+<li><details class="adbd"><summary>Adbd</summary>
+ADB Daemon executable: Responsible for adb shell</details></li>
+<li><details class="sys"><summary>Sys</summary><ul><li>fs</li><li>devices</li><li>dev</li><li>bus</li><li>class</li><li>firmware</li><li>kernel</li><li>power</li><li>module</li><li>block</li><li><details class="test"><summary>Test</summary>
+Testing</details></li></ul></details></li>
+<li><details class="system"><summary>System</summary>
+Main OS System: Stored as a separate partition in mtdblocks mounted at bootup (read-only)<ul><li><details class="app"><summary>App</summary>
+System Apps : Pre installed : Android Specific, Vendor and Carrier Provided Application set. These applications can't be changed without rooting device(till version 4.0 of android)</details></li><li><details class="bin"><summary>Bin</summary>
+Binary Executables required for operation</details></li><li>??? build.prop
+    File containing Configuration variables used to define various operational parameters</li><li><details class="etc"><summary>Etc</summary>
+Configuration Files for Whole Android System</details></li><li><details class="framework"><summary>Framework</summary>
+Framework : jar Files which provision the interaction between applications and hardware</details></li><li><details class="fonts"><summary>Fonts</summary>
+Fonts used in display</details></li><li><details class="media"><summary>Media</summary>
+Contains Media files ringtone/alarms etc</details></li><li><details class="xbin"><summary>Xbin</summary>
+Excutable Files generally this holds special executables like busybox or toolbox</details></li></ul></details></li>
+<li><details class="sdcard"><summary>Sdcard</summary>
+SDCARD :removable sdcard directory</details></li>
+<li><details class="mnt"><summary>Mnt</summary><ul><li>??? sdcard -&gt; /sdcard
+    Link too /sdcard</li><li><details class="asec"><summary>Asec</summary>
+SDCARD Secure area</details></li></ul></details></li>
+</ul>
+<h3 id="does-this-looks-wrong">Does this looks wrong</h3>
+<p>This is a work in progress Feel free to suggest changed either via issues / pull request @ github or sending email to androidfs@androidtamer.com</p>
+<h3 id="changelog">Changelog</h3>
+<ul>
+<li>21 Sep 2017<ol>
+<li>Data ported to github</li>
+</ol>
+</li>
+<li>11 Dec 2011<ol>
+<li>Updated lots of data based on details from https://github.com/keesj/gomo/wiki/AndroidUserland and user comments</li>
+<li>Not just mouseover text is also available next to folders now.</li>
+</ol>
+</li>
+</ul>
+
+</div></div>
+                
+            
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            
+                <p>(c) Android Tamer Team</p>
+            
+            <p>Documentation built with <a href="http://www.mkdocs.org/">MkDocs</a> - Last updated : 2017-09-21</p>
+        </footer>
+
+        <script src="../js/jquery-1.12.3.min.js"></script>
+        <script src="../js/bootstrap-3.0.3.min.js"></script>
+        <script src="../js/highlight.pack.js"></script>
+        
+        <script>var base_url = '..';</script>
+
+        <script src="../js/base.js"></script>
+
+    </body>
+</html>

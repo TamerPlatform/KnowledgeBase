@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    
+    <url>
+     <loc>/</loc>
+     <lastmod>2017-09-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/Device_Security_Patch_tracker/</loc>
+     <lastmod>2017-09-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/android_file_system_hierarchy/</loc>
+     <lastmod>2017-09-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/android_security_enhancement/</loc>
+     <lastmod>2017-09-21</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+</urlset>
