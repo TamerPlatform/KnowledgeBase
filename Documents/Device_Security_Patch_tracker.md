@@ -13,6 +13,7 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | BlackBerry DTK 60 | - | - | August 05, 2017 | 6.0.1 | August 16, 2017 [BB Support](http://support.blackberry.com/kb/articleDetail?articleNumber=000045309) |
 | OnePlus 3 | oneplus3 | A3003 | August 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-7-1-1-ota-for-the-oneplus-3-and-3t.618047/) |
 | OnePlus 3T | oneplus3t | A3003 | Auguest 01, 2017 | 7.1.1 | August 22, 2017 [1+ Forum](https://forums.oneplus.net/threads/oxygenos-4-1-7-7-1-1-ota-for-the-oneplus-3-and-3t.618047/) |
+| Samsung Galaxy A5 | a5ultexx | SM-A500FU | August 01, 2017 | 6.0.1 | September 18, 2018 [Image](images/Samsung_Galaxy_A5_18_September_2018.png) |
 | HTC U11 | - | - | July 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/shahamit99/status/885801962343587840) |
 | Honor 6x | - | - | June 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/NexToWeb/status/885866448672796672) |
 | Asus Zenfone 3 | - | ZE552KL | June 01, 2017 | 7.1.1 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885853948732506114) |
@@ -25,7 +26,6 @@ The latest version of Android in production is **7.1.1** However as visible belo
 | Nokia 6 | - | - | April 01, 2017 | 7.1.1 | April 15, 2017 [Tweet](https://twitter.com/hykenblue/status/852836797172269056) |
 | LG G6 | - | - | March 01, 2017 | 7.1.2 | July 14, 2017 [Tweet](https://twitter.com/mikig2/status/885816748322238468) |
 | Moto G5 Plus | - | - | March 01, 2017 | 7.0 | July 14, 2017 [Tweet](https://twitter.com/mayurjango/status/885870099189481472) |
-| Samsung Galaxy A5 | a5ultexx | SM-A500FU | March 01, 2017 | 6.0.1 | July 28, 2017 [Image](images/Samsung_Galaxy_A5_28_July_2017.png) |
 | Samsung Galaxy Note 5 | - | SM-N920A | March 01, 2017 | 7.0 | May 05, 2017 [Link](http://androidromupdate.com/n920aucu4eqc6-att-galaxy-note-5-n920a-android-7-0-nougat-firmware-update/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Note-5-nougat-N920AUCU4EQC6-ATT.jpg) |
 | Samsung Galaxy Note 5 | - | SM-N920C | March 01, 2017 | 7.0 | March 24, 2017 [Link](http://androidromupdate.com/install-n920cxxu3cqc7-official-android-7-0-nougat-on-galaxy-note-5-sm-n920c/) [Image](http://androidromupdate.com/wp-content/uploads/2017/03/Note-5-N920CXXU3CQC7.jpg) |
 | Samsung Galaxy Note 5 | - | SM-N920P | March 01, 2017 | 7.0 | April 16, 2017 [Link](http://androidromupdate.com/n920pvpu3dqc5-sprint-galaxy-note-5-sm-n920p-android-7-0-nougat-stock-firmware/) [Image](http://androidromupdate.com/wp-content/uploads/2017/04/Note5-N920PVPU3DQC5-Stock-firmware.jpg) |
