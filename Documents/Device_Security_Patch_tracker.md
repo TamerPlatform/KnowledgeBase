@@ -115,4 +115,4 @@ The latest version of Android in production is **7.1.1** However as visible belo
 
 This page is an ongoing effort and we will try to maintain it in up to date condition to the best of our abilities.
 
-Feel free to suggest corrections / additions in the list via either comments or a email to <a href="mailto:devicesecupdate at androidtamer dot com">devicesecupdate at androidTamer dot com</a>
+Feel free to suggest corrections / additions in the list via either comments or a email to <a href="mailto:devicesecupdate at tamerplatform dot com">devicesecupdate at tamerplatform dot com</a>
