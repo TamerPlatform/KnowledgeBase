@@ -101,7 +101,7 @@ This page will contain a replica structure of Android File System
 
 ### Does this looks wrong
 
-This is a work in progress Feel free to suggest changed either via issues / pull request @ github or sending email to androidfs@androidtamer.com
+This is a work in progress Feel free to suggest changed either via issues / pull request @ github or sending email to androidfs@tamerplatform.com
 
 
 ### Changelog
