@@ -1,7 +1,7 @@
-site_name: AndroidTamer-KB
+site_name: TamerPlatform-KB
 docs_dir: Documents
-site_description: KnowledgeBase for Android Tamer
-site_author: AndroidTamer Team
+site_description: KnowledgeBase for Tamer Platform
+site_author: TamerPlatform Team
 site_dir: site
 #theme: readthedocs
 markdown_extensions:
@@ -14,9 +14,7 @@ copyright: (c) Android Tamer Team
 site_favicon: favicon.ico
 theme: 'tamerdocs'
 #theme_dir: mkdocs-reloaded/mkdocs-reloaded
-repo_url: https://github.com/AndroidTamer
+repo_url: https://github.com/TamerPlatform
 extra:
   search: false
-  twitter: https://www.twitter.com/AndroidTamer
-  facebook: https://www.facebook.com/AndroidTamer
-  irc: https://webchat.freenode.net/?url=irc://irc.freenode.net/androidtamer
+  twitter: https://www.twitter.com/TamerPlatform
