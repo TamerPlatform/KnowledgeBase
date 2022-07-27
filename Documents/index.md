@@ -1,8 +1,8 @@
 hide_toc: true
 
-# AndroidTamer Knowledge Bank
+# TamerPlaform Knowledge Bank
 
-Android Tamer Project documents various Detailed Documentation here around Aspects of Android Security which are not covered in short articles and need larger articles / references for completion.
+TamerPlatform Project documents various Detailed Documentation here around Aspects of Android Security which are not covered in short articles and need larger articles / references for completion.
 
 To start with Some of the major area's Knowledge Bank or KB forshort will work includes
 
