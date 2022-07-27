@@ -73,7 +73,7 @@ Thanks to following folks for helping us with additional inputs.
     <li><a href="http://ankurbhargava.com" rel="nofollow" target="_blank">Ankur Bhargava</a></li>
     <li><a href="http://manifestsecurity.com" rel="nofollow" target="_blank">Aditya Agrawal</a></li>
 </ul>
-Feel free to suggest corrections / additions in the list via either comments or a email to <a href="mailto:androidsecurityenhancement at androidtamer dot com">AndroidSecurityEnhancement at androidTamer dot com</a>
+Feel free to suggest corrections / additions in the list via either comments or a email to <a href="mailto:androidsecurityenhancement at tamerplatform dot com">AndroidSecurityEnhancement at androidTamer dot com</a>
 
 
 [1]: https://plus.google.com/u/0/+GoogleChromeDevelopers/posts/Pb6BRDvRYVt
